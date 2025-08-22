@@ -1,0 +1,9 @@
+// @import "base/index";
+// @import "component/index";
+// @import "layout/index";
+// @import "theme/index";
+
+@use "base/index" as base;
+@use "component/index" as component;
+@use "layout/index" as layout;
+@use "theme/index" as theme;
